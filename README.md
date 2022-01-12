@@ -1,6 +1,6 @@
 
 [![Virgilma's GitHub stats](https://github-readme-stats.vercel.app/api?username=virgilma&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgilma&theme=gruvbox&hide=makefile,ruby,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgilma&theme=gruvbox&hide=ruby,html)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning Game Server Programming (C/C++).
 
