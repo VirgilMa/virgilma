@@ -1,8 +1,8 @@
 
-<!-- [![Virgilma's GitHub stats](https://github-readme-stats.vercel.app/api?username=virgilma&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Virgilma's GitHub stats](https://github-readme-stats.vercel.app/api?username=virgilma&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgilma&theme=gruvbox&hide=makefile&layout=compact&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgilma&layout=compact&theme=gruvbox&hide=ruby,makefile)](https://github.com/anuraghazra/github-readme-stats)
-
+🌱 I’m currently learning Game Server Programming (C/C++). Any discussions about game servers are welcomed.
 
 <!-- ### Hi there 👋 -->
 
