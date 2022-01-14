@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Game Server Programming (C/C++).
 
-Any discussions about game servers are welcomed.
+<!-- Any discussions about game servers are welcomed. -->
 
 <!-- ### Hi there 👋 -->
 
