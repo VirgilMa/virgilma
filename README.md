@@ -2,9 +2,9 @@
 [![Virgilma's GitHub stats](https://github-readme-stats.vercel.app/api?username=virgilma&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgilma&theme=gruvbox&hide=ruby,html)](https://github.com/anuraghazra/github-readme-stats)
 
-🌱 I’m currently working on Game Server Programming (C++).
+🌱 I’m currently working on Gameplay Programming (C++/Lua/Rust).
 
-<!-- Any discussions about game servers are welcomed. -->
+<!-- Any discussions about game development are welcomed. -->
 
 <!-- ### Hi there 👋 -->
 
